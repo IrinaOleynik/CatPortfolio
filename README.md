@@ -1,6 +1,6 @@
 # Привет, меня зовут Лиса!
 
-[](https://drive.google.com/file/d/1cHmHFkyEK5lvtwAxfNH8Ch2sw6mWXbMy/view)
+![](https://drive.google.com/file/d/1cHmHFkyEK5lvtwAxfNH8Ch2sw6mWXbMy/view)
 
 Сейчас моя хозяка осваивает профессию *Java-разработчик*, но о ней Вы узнаете чуть позже (когда она напишет нормальное резюме). Пока что лучше поговорим обо мне! Например, обсудим список моих удивительных навыков.
 
